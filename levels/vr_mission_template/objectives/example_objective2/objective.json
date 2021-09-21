@@ -1,0 +1,16 @@
+{
+  "title": "Example Objective 2",
+  "description": "This is what an <strong>objective description</strong> looks like!",
+  "validation_fields": [
+    {
+      "name": "sourceCodePath",
+      "type": "text",
+      "placeholder": "/path/to/your/code",
+      "label": "Where are you writing code on your computer?"
+    }
+  ],
+  "show_ide": true,
+  "rewards": {
+    "xp": 100
+  }
+}
